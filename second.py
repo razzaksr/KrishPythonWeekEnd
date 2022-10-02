@@ -1,0 +1,1 @@
+print("krish gonna code fitst python program in vs code tool")
