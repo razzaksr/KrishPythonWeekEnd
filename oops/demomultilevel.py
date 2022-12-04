@@ -10,7 +10,7 @@ class Finding(Traverse):
         return -1
     
 
-fn=Finding()
-fn>>[87,50,2,54,9.9,0,1,20,6,79.4]
-print(fn)
-print(fn*9.9)
+# fn=Finding()
+# fn>>[87,50,2,54,9.9,0,1,20,6,79.4]
+# print(fn)
+# print(fn*9.9)
